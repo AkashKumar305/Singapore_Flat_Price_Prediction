@@ -1,3 +1,4 @@
 streamlit
 pandas
 joblib
+streamlit_option_menu
