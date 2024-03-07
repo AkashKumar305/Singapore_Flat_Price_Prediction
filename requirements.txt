@@ -1,5 +1,9 @@
-streamlit
+numpy
 pandas
-joblib
-streamlit_option_menu
+matplotlib
+seaborn
 scikit-learn
+streamlit
+streamlit_option_menu
+joblib
+xgboost
