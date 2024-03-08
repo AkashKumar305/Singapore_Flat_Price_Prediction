@@ -43,6 +43,7 @@ Welcome to the Singapore Flat Resale Price Prediction project! This project focu
 - `main.py`: Main application file utilizing Streamlit for user interaction.
 - `regression_model.joblib`: Saved regression model for resale price prediction.
 - `requirements.txt`: List of dependencies required to run the project.
+- `Project Report.pdf`: PDF containing the Project Report.
 
 Feel free to explore the notebooks and application code to understand the project in depth. If you have any questions or feedback, please don't hesitate to reach out.
 
