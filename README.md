@@ -34,7 +34,8 @@ Welcome to the Singapore Flat Resale Price Prediction project! This project focu
 
 1. Install the required libraries by running: `pip install -r requirements.txt`.
 2. Execute the main application using: `streamlit run main.py`.
-3. The app is also hosted on Render platform as a web application: https://singapore-flat-price-prediction.onrender.com.
+3. The app is also hosted on Render platform as a web application: 
+The web application may take 30 to 40 seconds to load due to being on a Free plan https://singapore-flat-price-prediction.onrender.com.
 
 ## File Structure
 - `Data Preprocessing.ipynb`: Notebook containing the data preprocessing steps.
